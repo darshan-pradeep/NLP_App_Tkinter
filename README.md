@@ -3,3 +3,8 @@ Created a desktop app using Tkinter, using which one can perform Sentiment Analy
 
 
 <b> Add a .env file with the api key mentioned as API_KEY=\<your API key\> </b>
+
+
+# Future Plans
+1. Rectifying the comments at certain places
+2. Learn to improvise the UI
